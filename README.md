@@ -1,4 +1,4 @@
-# Real-time_human_pose_estimation_for_ergonomics_awareness
+# Real-time human pose estimation for ergonomics awareness
 Project presented at 'Made In Austria' October 2022 Event Organized by TU Wien, showcasing local innovation and technology.
 
 ## Authors and Acknowledgment
